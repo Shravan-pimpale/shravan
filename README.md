@@ -1,3 +1,3 @@
 # shravan
-This is my first repository
-author- shravan pimpale
+This is my first repository.
+author- shravan pimpale.
